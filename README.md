@@ -31,3 +31,39 @@ padding:10px;
 </div>
 </body>
 </html>
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Benefits section</title>
+		<link href="style.css" rel="stylesheet" type>
+		<style>
+		table{
+		width:400px;
+		}
+		th{
+		text-align:left;
+		border-spacing: 400px;
+		}
+		table,th,td{
+		border:1px solid#000;
+		}
+		</style>
+		</head>
+	<body>
+	<table>
+	<tr>
+	<th>travel</th>
+	<th>hotel</th>
+	<th>plane</table>
+	</tr>
+	<td>
+	<td>asd</td>
+	<td>da</td>
+	<td>sdas</td>
+	</tr>
+	</table>
+	</body>
+</html>
+
