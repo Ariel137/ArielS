@@ -1,0 +1,65 @@
+body{
+	background-image: url("burj.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	margin:0;
+	padding:0;
+	color: #FFD369;
+
+}
+.box{
+	width:1000px;
+	text-align: center;
+	padding:100px;
+	margin: auto;
+	text-transform: uppercase;
+	color:white;
+}
+.square{
+	width:1000px;
+	background: black;
+	text-align: center;
+	padding:100px;
+	margin: auto;
+	text-transform: uppercase;
+	color:white;
+	font-size:20px;
+}
+ol{
+	width:1000px;
+	text-align: center;
+	padding:100px;
+	margin: auto;
+	text-transform: uppercase;
+	color:white;
+	font-size:20px;
+}
+}
+.circle{
+	width:1000px;
+	text-align: center;
+	padding:100px;
+	margin: auto;
+	text-transform: uppercase;
+	color:white;
+	font-size:20px;
+}
+.square{
+	background: transparent;
+	width:1000px;
+	text-align: center;
+	padding:100px;
+	margin: auto;
+	text-transform: uppercase;
+	color:white;
+	font-size:20px;
+}
+.rectanle{
+	width:1000px;
+	text-align: center;
+	padding:600px;
+	margin: auto;
+	text-transform: uppercase;
+	color:white;
+	font-size:20px;
+}
